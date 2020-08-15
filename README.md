@@ -1,2 +1,2 @@
-# pam-intro-page
+# intro-to-code-pam
 Created with CodeSandbox
